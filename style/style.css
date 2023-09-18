@@ -1,0 +1,18 @@
+.banner {
+  height: 100vh;
+  background: url(../img/bg-1.jpg);
+  background-size: cover;
+  background-position: center;
+  opacity: 70%;
+}
+
+.ch {
+  min-height: 100vh;
+}
+.chc {
+  min-height: 84vh;
+}
+
+.drk {
+  color: #000;
+}
